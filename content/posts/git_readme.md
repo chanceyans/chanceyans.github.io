@@ -16,9 +16,7 @@ tags:
     git push -u origin main
 
 #### 参考
-更多细节查看github文档
-
-    [git-doc](https://docs.github.com/zh/get-started/using-git/about-git)
+更多细节查看github文档 [git-doc](https://docs.github.com/zh/get-started/using-git/about-git)
 
 #### 帮助文档
 - man手册
