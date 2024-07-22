@@ -1,8 +1,11 @@
-+++
-title = 'Git操作指南'
-date = 2024-07-22T10:43:04+08:00
-draft = true
-+++
+---
+layout: post
+title: 'Git操作指南'
+date: 2024-07-22T10:43:04+08:00
+draft: true
+tags:
+    - iOS
+---
 
 学习如何试用git
 
