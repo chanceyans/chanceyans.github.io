@@ -6,11 +6,11 @@ draft = true
 
 学习如何试用git
 
-####如下所示git
+#### 如下所示git
 
     git add .
     git commit -m "first_commit"
     git push -u origin main
 
-####拉取文件
+#### 拉取文件
 
