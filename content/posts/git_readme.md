@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Git操作指南'
+subtitle:   新手 Giter help
 date: 2024-07-22T10:43:04+08:00
-draft: true
 tags:
     - iOS
 ---
