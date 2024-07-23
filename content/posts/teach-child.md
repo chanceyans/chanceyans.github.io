@@ -1,7 +1,7 @@
 +++
 title = 'Teach Child'
 date = 2024-07-22T16:31:55+08:00
-draft = true
+draft = flase
 +++
 
 # 计划 
