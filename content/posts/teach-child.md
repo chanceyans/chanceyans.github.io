@@ -1,7 +1,7 @@
 +++
 title = 'Teach Child'
 date = 2024-07-22T16:31:55+08:00
-draft = flase
+draft = false
 +++
 
 # 计划 
@@ -27,11 +27,8 @@ hf vhf shf wifi fm 授时台
 
 [摩尔斯电码-听抄](lcwo.net)
 
-刷leetcode
-
-https://en.wikipedia.org/wiki/List_of_children%27s_games
-
-8/1 thursday
+[刷leetcode](https://en.wikipedia.org/wiki/List_of_children%27s_games)
+#### 8/1 thursday
 
 9-9.30 介绍公司，具体位置，接水，餐厅，有问题找谁，注意安全，
 9.45-10.30  搭积木
@@ -40,7 +37,7 @@ https://en.wikipedia.org/wiki/List_of_children%27s_games
 15.15-17.00 教小朋友写作业
 17.00-17.45 布置回家作业-练习摩尔斯码
 
-8/5
+#### 8/5
 介绍电脑主机的构成
 看 硬件茶谈视频
 提问一些接口名称
@@ -51,7 +48,7 @@ https://en.wikipedia.org/wiki/List_of_children%27s_games
 
 休息时间看会动漫，今敏的动漫
 
-8/8
+#### 8/8
 linux101,utc大学的linux入门
 常见命令使用
 扩展
@@ -59,20 +56,20 @@ linux101,utc大学的linux入门
 
 快结束时可以玩会游戏
 
-8/12
+#### 8/12
 
 linux分区
 fdisk/cfdisk
 分区扩容，压缩，
 如何全盘备份
 
-8/15
+#### 8/15
 
 windows与linux的区别，为啥服务器都用linux
 
 
 
-18
+#### 18
 happy hacking
 建立靶机
 一起用之前学到的知识hacking it
@@ -80,7 +77,7 @@ ctf001
 
 闲暇时间给他们看看业余无线电视频，空间站啊，地面波，大气波导等。
 
-22
+#### 22
 
 继续happy hacking
 ctf002
@@ -88,13 +85,13 @@ ctf002
 看无线电的视频，和一些有教育意义的长篇动漫
 
 
-25
+#### 25
 hamradio 天线制作
 常用天线制作，阅读文章，观看视频
 
 下午看书
 
-29
+#### 29
 
 准备开学
 开始预习功课
