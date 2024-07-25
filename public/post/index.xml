@@ -6,7 +6,42 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 10:22:38 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teach Childs</title>
+      <link>http://localhost:1313/post/teach-childs/</link>
+      <pubDate>Wed, 24 Jul 2024 10:22:38 +0800</pubDate>
+      <guid>http://localhost:1313/post/teach-childs/</guid>
+      <description>24年8月1日 9-9.30 签到-父母 介绍公司，具体位置，接水，餐厅，有问题找谁，注意安全 15分钟休息 自己熟悉位置 9.45-10.30 玩小游戏，飞行棋 10.45-11.30 折千纸鹤等教学 中午</description>
+    </item>
+    <item>
+      <title>Teach Child</title>
+      <link>http://localhost:1313/post/teach-child/</link>
+      <pubDate>Mon, 22 Jul 2024 16:31:55 +0800</pubDate>
+      <guid>http://localhost:1313/post/teach-child/</guid>
+      <description>计划 日程 礼拜二 礼拜四 儿童编程 休息时间 中午 看 电影 折纸游戏 讲解业余无线电知识 hf vhf shf wifi fm 授时台 2024最新-A24主流国际电台对华短波广播频率表 投</description>
+    </item>
+    <item>
+      <title>Git操作指南</title>
+      <link>http://localhost:1313/post/git_readme/</link>
+      <pubDate>Mon, 22 Jul 2024 10:43:04 +0800</pubDate>
+      <guid>http://localhost:1313/post/git_readme/</guid>
+      <description>学习如何试用git 如下所示git git add . git commit -m &amp;quot;first_commit&amp;quot; git push -u origin main 参考 更多细节查看github文档 git-doc 帮助文档 man手册 man git git &amp;ndash;help</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Fri, 19 Jul 2024 15:18:10 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>This is bold text, and this is emphasized text. Visit the Hugo website! one,第一 this is my first blog post two,第二 this is my second blog post three,第三 this is my blog - this is my thred blog post four,第四 good, have a nice day. foot tks,</description>
+    </item>
+    <item>
+      <title>[中文] 《长恨歌》</title>
+      <link>http://localhost:1313/post/oneee/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <guid>http://localhost:1313/post/oneee/</guid>
+      <description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description>
+    </item>
   </channel>
 </rss>

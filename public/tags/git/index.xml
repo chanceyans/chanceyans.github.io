@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git操作指南</title>
-      <link>http://localhost:1313/posts/git_readme/</link>
+      <link>http://localhost:1313/post/git_readme/</link>
       <pubDate>Mon, 22 Jul 2024 10:43:04 +0800</pubDate>
-      <guid>http://localhost:1313/posts/git_readme/</guid>
+      <guid>http://localhost:1313/post/git_readme/</guid>
       <description>学习如何试用git 如下所示git git add . git commit -m &amp;quot;first_commit&amp;quot; git push -u origin main 参考 更多细节查看github文档 git-doc 帮助文档 man手册 man git git &amp;ndash;help</description>
     </item>
   </channel>
