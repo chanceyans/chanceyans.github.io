@@ -4,6 +4,8 @@ date = 2024-07-22T16:31:55+08:00
 draft = false
 +++
 
+$$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$$
+
 # 计划 
 日程
 礼拜二
