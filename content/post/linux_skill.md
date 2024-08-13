@@ -103,6 +103,7 @@ chance ALL=(ALL:ALL) ALL
 ```
 
 TUIC ？
+# [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
 # [建议阅读 Linux 101](https://101.lug.ustc.edu.cn/)
 
 # 以下内容参考来源[https://qianngchn.github.io/wiki/7.html]
